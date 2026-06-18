@@ -1,3 +1,7 @@
+#  Check whether a person is a child, teenager, adult, or senior citizen based on age.
+
+
+
 age = 23
 
 if age < 13:

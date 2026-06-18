@@ -1,3 +1,6 @@
+#  Take two numbers as input and print their Remainder.
+
+
 # num1 = int(input("Enter the first Number:"))
 # num2 = int(input("Enter the second Number:"))
 # remainder = num1%num2

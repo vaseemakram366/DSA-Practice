@@ -1,3 +1,7 @@
+# Store Discount Calculation
+
+
+
 # amount = 6000
 
 # if amount > 5000:

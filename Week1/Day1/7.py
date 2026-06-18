@@ -1,3 +1,8 @@
+# Take marks of 5 subjects as input and calculate the total marks and percentage.
+
+
+
+
 # sub1 =int(input("Enter marks for student 1 :"))
 # sub2 = int(input("Enter marks for student 2 :"))
 # sub3 = int(input("Enter marks for student 3 :"))

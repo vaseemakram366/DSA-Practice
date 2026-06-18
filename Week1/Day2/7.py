@@ -1,3 +1,7 @@
+# Check whether a number is positive, negative, or zero.
+
+
+
 n = 234
 
 if n > 0:

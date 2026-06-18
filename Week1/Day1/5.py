@@ -1,3 +1,7 @@
+#  Take three numbers as input and calculate their average.
+
+
+
 # num1 = int(input("Enter first Number :"))
 # num2 = int(input("Enter second Number :"))
 # num3 = int(input("Enter third Number :"))
