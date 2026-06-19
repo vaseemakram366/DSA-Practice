@@ -9,6 +9,9 @@
 # avg = num1+num2+num3/3
 # print("Average is:", avg)
 
+
+# OR
+
 num1 = float(input("Enter first Number :"))
 num2 = float(input("Enter second Number :"))
 num3 = float(input("Enter third Number :"))

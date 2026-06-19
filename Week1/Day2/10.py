@@ -11,6 +11,9 @@
 # else:
 #     print("Final Amount =", amount)
 
+
+# OR
+
 amount = float(input("Enter purchase amount: "))
 
 if amount > 5000:

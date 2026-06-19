@@ -16,6 +16,8 @@
 # print("Total Marks Secured:", total_obtained, "/ 500")
 # print("Aggregate Percentage:", percentage, "%")
 
+# OR
+
 
 sub1 =float(input("Enter marks for student 1 :"))
 sub2 = float(input("Enter marks for student 2 :"))

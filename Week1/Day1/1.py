@@ -3,4 +3,6 @@
 
 print("Let's start the challenge, I will stay consistent")
 
+# OR
+
 # print('Let's start the challenge, I will stay consistent')
